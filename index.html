@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Online Weather App</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <h1>🌦 Online Weather App</h1>
+
+    <div class="search-box">
+     <select id="cityInput">
+        <option value="" disabled selected>Select a city</option>
+        <option value="Delhi">Delhi</option>
+        <option value="Mumbai">Mumbai</option>
+       <option value="Chennai">Chennai</option>
+       <option value="London">London</option>
+       <option value="Paris">Paris</option>
+       <option value="Tokyo">Tokyo</option>
+       <option value="New York">New York</option>
+</select>
+
+      <button onclick="showWeather()">Check</button>
+    </div>
+
+    <div id="weatherResult" class="weather-box">
+      <!-- Weather info will appear here -->
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
