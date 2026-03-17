@@ -80,6 +80,6 @@ Dark/light mode toggle
 
 📬 Contact
 
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/TiwariShreya05
 
-LinkedIn: https://linkedin.com/in/yourusername
+LinkedIn:https://www.linkedin.com/in/shreya-tiwari-520b692b3/
