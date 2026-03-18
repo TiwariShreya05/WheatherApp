@@ -82,4 +82,6 @@ Dark/light mode toggle
 
 GitHub: https://github.com/TiwariShreya05
 
-LinkedIn:https://www.linkedin.com/in/shreya-tiwari-520b692b3/
+LinkedIn: https://www.linkedin.com/in/shreya-tiwari-520b692b3/
+
+Email: shreyatiwari0801@gmail.com
