@@ -4,10 +4,8 @@
 A web application that provides real-time weather information for any city using weather APIs.
 This project was built to understand API integration, asynchronous programming, and responsive UI design.
 
-🎥 Demo
-
-https://dms.licdn.com/playlist/vid/v2/D4D05AQHbHpGLVqqn4Q/mp4-640p-30fp-crf28/B4DZvk13RhJsBs-/0/1769070887952?e=1774360800&v=beta&t=xPHaIeOC4oVhLMcOyMfdjYzjithnW0-AeBjA-_VU7vE
-
+🔗 **Live Website:**https://wheatheronlineapp.netlify.app/
+[![Netlify Status](https://api.netlify.com/api/v1/badges/bc2a2804-2642-4335-8241-2c11706b2e79/deploy-status)](https://app.netlify.com/projects/wheatheronlineapp/deploys)
 
 ✨ Features
 
