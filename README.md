@@ -40,17 +40,19 @@ GitHub
 VS Code
 
 ⚙️ How to Run the Project
-1️⃣ Clone the repository
-git clone https://github.com/yourusername/weather-app.git
-2️⃣ Navigate to the project folder
-cd weather-app
+
+1️⃣ Clone the repository git clone
+
+https://github.com/yourusername/weather-app.git
+
+2️⃣ Navigate to the project folder cd weather-app
+
 3️⃣ Open the project
 
-Open index.html in your browser
-
-(OR if using live server)
+Open index.html in your browser (OR if using live server)
 
 live-server
+
 🧠 What I Learned
 
 Through this project I learned:
