@@ -1,86 +1,62 @@
+# 🌦️ Weather App
 
-🌦️ Weather App
+A web application that fetches real-time weather data for any city using the OpenWeather API.
 
-A web application that provides real-time weather information for any city using weather APIs.
-This project was built to understand API integration, asynchronous programming, and responsive UI design.
+🔗 **Live Demo → [tiwarishreya05.github.io/WheatherApp](https://tiwarishreya05.github.io/WheatherApp/)**
 
-🔗 Live Website: https://tiwarishreya05.github.io/WheatherApp/
+---
 
-✨ Features
+## 📌 Project Overview
 
-Search weather by city name
+Built to understand API integration, asynchronous JavaScript, and responsive UI design through a practical, real-world application.
 
-Displays temperature, humidity, and weather conditions
+---
 
-Real-time data using API
+## 🚀 Features
 
-Error handling for invalid city names
+- Search weather by city name
+- Displays temperature, humidity, and weather conditions
+- Error handling for invalid city names
+- Clean and responsive UI
 
-Clean and responsive user interface
+---
 
-🛠️ Technologies Used
-Frontend
+## ⚙️ Tech Stack
 
-HTML
+- **HTML5 / CSS3 / JavaScript** — frontend
+- **OpenWeather API** — real-time weather data
+- **Git & GitHub** — version control
 
-CSS
+---
 
-JavaScript
+## 🚀 Getting Started
 
-API
+**1. Clone the repository**
+```bash
+git clone https://github.com/TiwariShreya05/WheatherApp.git
+cd weather-app
+```
 
-OpenWeather API 
+**2. Open in browser**
+```bash
+open index.html
+```
 
-Tools
+Or use the **[live demo](https://tiwarishreya05.github.io/WheatherApp/)** — no setup needed.
 
-Git
+---
 
-GitHub
+## 🔮 Future Improvements
 
-VS Code
+- 5-day weather forecast
+- Location-based weather via GPS
+- Dark / light mode toggle
+- UI animations
 
-⚙️ How to Run the Project
+---
 
-1️⃣ Clone the repository git clone
+## 📬 Contact
 
-https://github.com/yourusername/weather-app.git
-
-2️⃣ Navigate to the project folder cd weather-app
-
-3️⃣ Open the project
-
-Open index.html in your browser (OR if using live server)
-
-live-server
-
-🧠 What I Learned
-
-Through this project I learned:
-
-Fetching data from APIs
-
-Handling asynchronous JavaScript (fetch/async-await)
-
-Parsing and displaying JSON data
-
-Error handling in real-world applications
-
-Improving UI for better user experience
-
-🚀 Future Improvements
-
-Add 5-day weather forecast
-
-Add location-based weather (GPS)
-
-Improve UI with animations
-
-Dark/light mode toggle
-
-📬 Contact
-
-GitHub: https://github.com/TiwariShreya05
-
-LinkedIn: https://www.linkedin.com/in/shreya-tiwari-520b692b3/
-
-Email: shreyatiwari0801@gmail.com
+- 💼 LinkedIn: [linkedin.com/in/shreya-tiwari-520b692b3](https://www.linkedin.com/in/shreya-tiwari-520b692b3/)
+- 📧 Email: shreyatiwari0801@gmail.com
+- 🐙 GitHub: [github.com/TiwariShreya05](https://github.com/TiwariShreya05)
