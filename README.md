@@ -8,7 +8,7 @@ A web application that fetches real-time weather data for any city using the Ope
 
 ## 📌 Project Overview
 
-Built to understand API integration, asynchronous JavaScript, and responsive UI design through a practical, real-world application.
+Built to understand API integration, JavaScript, and responsive UI design through a practical, real-world application.
 
 ---
 
@@ -16,7 +16,7 @@ Built to understand API integration, asynchronous JavaScript, and responsive UI 
 
 - Search weather by city name
 - Displays temperature, humidity, and weather conditions
-- Error handling for invalid city names
+- Error handling for invalid city names   
 - Clean and responsive UI
 
 ---
