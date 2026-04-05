@@ -11,7 +11,7 @@ A web application that fetches real-time weather data for any city using the Ope
 Built to understand API integration, JavaScript, and responsive UI design through a practical, real-world application.
 
 ---
-
+  
 ## 🚀 Features
 
 - Search weather by city name
